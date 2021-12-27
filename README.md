@@ -4,14 +4,14 @@ Perkenalkan nama saya **Yoga Prianjaya**.
 
 ### Github Statistic
 <p align="left">
-<a href="https://github.com/dandia14">
+<a href="https://github.com/yogaprianjaya">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yogaprianjaya&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yogaprianjaya&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
 <!--
-**dandia14/dandia14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**yogaprianjaya/yogaprianjaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
