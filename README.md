@@ -1,16 +1,12 @@
 ### Hi there 👋
 
-Perkenalkan nama saya **Dandi Ahmadin**.
-
-Saya seorang siswa **Front-End Web Developer & Machine Learning Engineer** di [Dicoding](https://www.dicoding.com/).
-
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/dandiahmadin)ku ya.
+Perkenalkan nama saya **Yoga Prianjaya**.
 
 ### Github Statistic
 <p align="left">
 <a href="https://github.com/dandia14">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dandia14&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dandia14&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yogaprianjaya&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yogaprianjaya&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
