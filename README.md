@@ -5,7 +5,7 @@
 
 - 👯 Saya juga berkolaborasi di [Benedictio](https://github.com/benedictio)
 
-- 👨‍💻 Semua proyek portofolio saya tersedia di [github saya](https://github.com/yogaprianjaya)
+- 👨‍💻 Semua proyek portofolio saya tersedia di [repository github saya](https://github.com/yogaprianjaya?tab=repositories)
 
 - 📫 Bagaimana cara menghubungi saya? **yogaprianjaya@gmail.com**
 
