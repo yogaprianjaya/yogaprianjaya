@@ -24,4 +24,4 @@
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=yogaprianjaya&" alt="yogaprianjaya" width="47%"/></p>
 
-<p align="center"><br /><img src="https://github-readme-stats.vercel.app/api/top-langs?username=yogaprianjaya&show_icons=true&locale=en&layout=compact" alt="yogaprianjaya" width=50%"/></p>
+<p align="center"><br /><img src="https://github-readme-stats.vercel.app/api/top-langs?username=yogaprianjaya&show_icons=true&locale=en&layout=compact" alt="yogaprianjaya" width="50%"/></p>
